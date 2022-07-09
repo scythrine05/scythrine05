@@ -1,33 +1,23 @@
-<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Abhishek Sawan</h1> -->
-<h1 align="center">Johar , I'm Rohan Murmu</h1>
-<h3 align="center">Full Stack Developer</h3> 
-
-
-
-
-
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Rohan Murmu</h1> -->
+<h1 align="center">Hey , I'm Rohan Murmu</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="left">
 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/fa314a/c-plus-plus-logo.png"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
- <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-   <a href="https://www.w3schools.com/css/" target="_blank"> <img  src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>  
-
-
-
-
-  
-
+<a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+<a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img  src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>  
+ <a href="https://https://reactnative.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="postman" width="45" height="45"/> </a>
 
 </p>
 
@@ -35,39 +25,38 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/sawanabhi157/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek Sawan streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sawanabhi157&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/scythrine05/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohan Murmu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=scythrine05&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/sawanabhi157/github-readme-stats"><img alt="Abhishek Sawan Github Stats" src="https://github-readme-stats.vercel.app/api?username=sawanabhi157&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/sawanabhi157/github-readme-stats"><img alt="Abhishek Sawan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawanabhi157&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/scythrine05/github-readme-stats"><img alt="Rohan Murmu Github Stats" src="https://github-readme-stats.vercel.app/api?username=scythrine05&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/scythrine05/github-readme-stats"><img alt="Rohan Murmu Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scythrine05&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
-<!-- <a href="https://github.com/sawanabhi157/github-readme-activity-graph"><img alt="Abhishek Sawan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sawanabhi157&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<!-- <a href="https://github.com/scythrine05/github-readme-activity-graph"><img alt="Rohan Murmu Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=scythrine05&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
 
 ## 🙋‍♂️ Connect with me:
+
 <p align="center">
 
-<a href = "https://in.linkedin.com/in/sawanabhi157/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.quora.com/profile/Abhishek-Sawan-5"><img src="https://img.icons8.com/doodle/48/4a90e2/quora--v1.png"/> </a>
-<a href = "https://www.instagram.com/sawanabhi157/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/rohan-murmu-6474b61a0/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/sawanabhi157/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sawanabhi157">
+
+<a href="https://github.com/scythrine05/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=scythrine05">
 </a>
-<a href="https://github.com/sawanabhi157?tab=followers"><img src="https://img.shields.io/github/followers/sawanabhi157?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/scythrine05?tab=followers"><img src="https://img.shields.io/github/followers/scythrine05?label=Followers&style=social" alt="GitHub Badge"></a>
